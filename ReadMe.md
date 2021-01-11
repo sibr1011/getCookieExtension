@@ -3,7 +3,7 @@ TODOS:
 * copy to clipboard
 * add ";" to copy
 * only run on click
-* optional: add input of cookie
+* optional: add input of cookie as string
 * optional: show selection of cookies on page
 
 IMPORT EXTENSION TO CHROME:
